@@ -1,4 +1,7 @@
 # Temple-Run-in-Medieval-City
+
+![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 Unity Version: 2022.3.26f1
 
 ![alt text](Screenshots/ss0.png)
